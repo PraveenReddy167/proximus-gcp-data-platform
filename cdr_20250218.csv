@@ -1,0 +1,3 @@
+call_id,customer_id,duration,type,tower_id
+C7788,10023,325,voice,T0132
+C7789,10024,180,data,T0188

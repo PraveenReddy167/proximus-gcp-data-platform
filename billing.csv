@@ -1,0 +1,2 @@
+bill_id,customer_id,amount,month,payment_status
+B1221,10023,59.99,2025-01,PAID
